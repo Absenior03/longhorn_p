@@ -7,7 +7,7 @@
 
 Longhorn is a cloud based storage management platform for kubernetes, developed by CNCF (Cloud Native Computing Foundation). It manages data using blocks.
 
-Longhorn also acts as a backup storage for kubernetes.
+Longhorn also acts as a backup storage for k8s.
 
 **Details:**
 
