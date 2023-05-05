@@ -13,11 +13,11 @@ Longhorn also acts as a backup storage for k8s.
 
 **Project Name**
 
-Longhorn
+Strato
 
 **Foundation**
 
-Cloud Native Computing Foundation (CNCF)
+Soda Foundation
 
 **License**
 
