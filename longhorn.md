@@ -31,6 +31,6 @@ Apache license 2.0
 
 https://www.github/cncf.io
 
-**Working:**
+**Current Usage:**
 
 It takes data from kubernetes and manages it using data blocks and creating multiple replicas of it forming a network, due to which the forms ecosystem increases the efficiency for storing data and the accuracy while retrieving it too.
